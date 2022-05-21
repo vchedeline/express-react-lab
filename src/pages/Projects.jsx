@@ -14,7 +14,7 @@ export default function Projects({ URL }) {
 
   const loaded = () =>
     projects.map((ele) => (
-      <div>
+      <div className="project">
         <h1>{ele.name}</h1>
         <img src={ele.image} alt="..." />
         <a href={ele.git}>
