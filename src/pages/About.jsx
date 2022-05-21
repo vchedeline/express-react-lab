@@ -10,7 +10,7 @@ export default function About({ URL }) {
       setAbout(response);
     };
     getAbout();
-  }, []);
+  }, [URL]);
 
   const loaded = () => (
     <div>

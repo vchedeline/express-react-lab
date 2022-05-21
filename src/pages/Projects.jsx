@@ -10,7 +10,7 @@ export default function Projects({ URL }) {
       setProjects(response);
     };
     getProjects();
-  }, []);
+  }, [URL]);
 
   const loaded = () =>
     projects.map((ele) => (
