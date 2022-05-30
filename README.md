@@ -16,5 +16,5 @@ Take a look at my journey so far in SEI.
 - **MongoDB, Mongoose**
 - **Heroku**
 
-[mywebsite]: https://cv-sei-express-react-lab.herokuapp.com/
+[mywebsite]: https://cv-sei-express-react-lab.netlify.app/
 [backend]: https://github.com/vchedeline/express-react-lab-backend
